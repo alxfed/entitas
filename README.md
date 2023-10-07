@@ -1,2 +1,2 @@
-# Package name
-Package Name
+# Entitas
+Entity, a responsive being.
